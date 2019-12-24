@@ -1,0 +1,24 @@
+{
+  "name": "@ngsctt/prettier-config",
+  "version": "0.1.0",
+  "description": "A basic Prettier configuration",
+  "main": "prettierrc.js",
+  "files": [
+    "prettierrc.js",
+    "README.md",
+    "LICENCE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngsctt/prettier-config.git"
+  },
+  "author": "Nathan Scott <dev@ngscott.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngsctt/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ngsctt/prettier-config#readme"
+}
